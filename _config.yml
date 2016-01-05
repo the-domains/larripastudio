@@ -1,7 +1,7 @@
 name: LarripaStudio
 favicon: null
-layout_spectrum: 0.7939869018737227
-typography_spectrum: 0.38203847873955965
+layout_spectrum: 0.01762
+typography_spectrum: 0.85341
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.13417667080648243
-  lightness: 0.8046677887905389
-  saturation: 0.5344528362620622
-  rhythmicContrast: 0.02979011693969369
+  brandStrength: 1
+  lightness: 0.875
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
