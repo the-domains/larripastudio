@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[LarripaStudio]]></title>
         <description><![CDATA[LarripaStudio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/larripastudio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 12:21:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Jan 2016 11:19:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/larripastudio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31d440fa-3a92-4501-ba11-f961b47e3331.jpg">]]></description>
-            <link>undefined37e4c4ff-049c-4473-9c19-f4f58b6a5bac/index.html</link>
+            <link>https://thegrid.ai/larripastudio/37e4c4ff-049c-4473-9c19-f4f58b6a5bac/index.html</link>
             <guid isPermaLink="false">37e4c4ff-049c-4473-9c19-f4f58b6a5bac</guid>
             <pubDate>Tue, 05 Jan 2016 12:21:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b934b1a-615e-4735-ae7d-dd7b5c76073f.jpg">]]></description>
+            <link>https://thegrid.ai/larripastudio/3ee7785b-0306-4a5b-9d0d-522315ac7cfb/index.html</link>
+            <guid isPermaLink="false">3ee7785b-0306-4a5b-9d0d-522315ac7cfb</guid>
+            <pubDate>Wed, 06 Jan 2016 11:18:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
